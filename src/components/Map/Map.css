@@ -1,0 +1,8 @@
+.google-map {
+    height: 650px;
+    display: block;
+    margin: auto;
+    max-width: 1140px;
+    width: calc(100% - 102px);
+    margin-top: 110px;
+}
